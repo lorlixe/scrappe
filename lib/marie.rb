@@ -54,7 +54,7 @@ def get_townhall_url_scrapper
 	 
 	
 
-	puts arry
+	return arry
 	
 	
 end
